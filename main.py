@@ -1,7 +1,7 @@
 from webserver import keep_alive
 import requests
 
-channelID = PUT THE CHANNEL ID
+channelID = https://discord.com/channels/946757069858562068/955187861156671559
 headers = {
     "authorization":
     "YOUR TOKEN HERE"
